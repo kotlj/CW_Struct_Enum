@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\bin\Debug\CW_Struct_Enum.exe.config
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\bin\Debug\CW_Struct_Enum.exe
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\bin\Debug\CW_Struct_Enum.pdb
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\obj\Debug\CW_Struct_Enum.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\obj\Debug\CW_Struct_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\obj\Debug\CW_Struct_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\obj\Debug\CW_Struct_Enum.exe
+C:\Users\Admin\source\repos\CW_Struct_Enum\CW_Struct_Enum\obj\Debug\CW_Struct_Enum.pdb
